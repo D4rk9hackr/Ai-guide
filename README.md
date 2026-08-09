@@ -35,7 +35,7 @@ Welcome to the ultimate guide for understanding, designing, and building lightwe
 
 Read the full comprehensive guide in Arabic or English:
 * 📖 [Read the Arabic Guide (الدليل بالعربية)](./Ar-guide.md)
-* 📖 [Read the English Guide ](./eng-guide.md)
+* 📖 [Read the English Guide ](./Eng-guide.md)
 
 ---
 
